@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills&display=swap');
+
+.toolbar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px 0 0 0;
+  width: auto;
+  height: 30px;
+  background-color: #828fa2;
+  border: black solid 1px;
+  border-radius: 0.2rem;
+  font-family: 'Stick No Bills', sans-serif;
+  font-size: 1.2rem;
+}
+
+.toolbar div {
+  margin-left: 0.625rem;
+  font-size: 1.2rem;
+}
+
+.toolbar div i {
+  margin-right: 0.625rem;
+}
+
+.toolbar div i:hover {
+  color: #dc143c;
+}

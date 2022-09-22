@@ -1,0 +1,8 @@
+.editor {
+  padding-left: 0.6rem;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 0.875rem;
+  background-color: #bac1ca;
+  width: 45vw;
+  border-radius: 0.2rem;
+}
